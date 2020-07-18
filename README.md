@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👨‍💻  A developer who loves to create amazing things
+- 🌱  I’m currently learning Golang,Scala,Java
+- 👯  I’m looking to collaborate on distributed storage
+- 🔭  Open source fancier
