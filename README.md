@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Thanks for visiting my GitHub profile, it's great to meet you here! 😊
+
+Here are some ideas to get you started:
+
 - 👨‍💻  A developer who loves to create amazing things
 - 🌱  I’m currently learning Golang,Scala,Java
 - 👯  I’m looking to collaborate on distributed storage
